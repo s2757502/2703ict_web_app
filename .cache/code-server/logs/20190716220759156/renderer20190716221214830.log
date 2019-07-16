@@ -934,3 +934,366 @@
     at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
     at Array.forEach (<anonymous>)
     at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:42:26.909] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:42:36.176] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:42:41.248] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:43:13.359] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:43:18.281] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:43:33.361] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:43:38.361] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:43:48.387] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:48:26.366] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:48:31.292] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:48:41.376] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:48:46.367] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:48:51.356] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:49:01.367] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:50:32.370] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:50:42.375] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:50:47.361] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:50:57.366] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:51:03.381] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:51:07.366] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:51:33.358] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:51:43.355] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:51:48.411] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:51:53.420] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:52:03.372] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:52:08.379] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:52:13.183] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:52:27.206] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:53:49.317] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:53:54.377] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:53:59.375] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:54:09.369] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-07-17 08:54:14.429] [renderer20190716221214830] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
