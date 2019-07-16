@@ -1,0 +1,58 @@
+/var/www/webAppDev/week1/task1/index.html
+cd ..
+cd /
+cd ~
+git config
+git init
+cd /var/www/webAppDev/week1/task1
+curl index.html
+cd ~
+git commit
+git commit *
+git commit -m"commit 1"
+cd /
+git commit
+cd ~
+/var/www/webAppDev/week1/task1
+cd /var/www/webAppDev/week1/task1
+run index.html
+chrome index.html
+cd ~
+sudo apt-get install lynx
+apt-get install lynx
+cd /var/www/webAppDev/week1/task1
+google-chrome index.html
+cmd
+compgen -c
+test index.html
+echo index.html
+browse index.html
+curl index.html
+sudo curl index.html
+index.html
+touch index.html
+/var/www/webAppDev/week1/task1/index.html
+cd ~
+git reset
+git commit
+git commit *
+git init
+git add .
+git commit
+git commit -am "First Commit"
+git push origin master
+https://s2757502.elf.ict.griffith.edu.au/
+curl https://s2757502.elf.ict.griffith.edu.au/
+clear
+apache
+clear
+cd /var/www/webAppDev/week1/task1
+start index.html
+ls
+open index.html
+open index
+man open
+man ls
+ls
+index
+/var/www/webAppDev/week1/task1/index.html
