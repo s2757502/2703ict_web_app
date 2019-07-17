@@ -1,0 +1,28 @@
+#navbar{
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+    margin: 5px;
+}
+
+#content{
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+    margin: 5px;
+}
+
+.post{
+    border-color: black;
+    border-style: solid;
+    margin: 10px;
+}
+
+img{
+    margin: 5px;
+}
+
+.datetime{
+    text-align: right;
+    padding-right: 10px;
+}
