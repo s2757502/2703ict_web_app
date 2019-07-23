@@ -1,0 +1,20 @@
+[2019-07-22 02:21:46.682] [exthost] [info] extension host started
+[2019-07-22 02:21:47.241] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-07-22 02:21:47.241] [exthost] [info] ExtensionService#loadCommonJSModule /src/packages/server/build/extensions/extension-editing/dist/extension
+[2019-07-22 02:21:47.264] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-07-22 02:21:47.264] [exthost] [info] ExtensionService#loadCommonJSModule /src/packages/server/build/extensions/typescript-language-features/dist/extension
+[2019-07-22 02:21:47.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-22 02:21:47.299] [exthost] [info] ExtensionService#loadCommonJSModule /src/packages/server/build/extensions/debug-auto-launch/dist/extension
+[2019-07-22 02:21:47.302] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-22 02:21:47.302] [exthost] [info] ExtensionService#loadCommonJSModule /src/packages/server/build/extensions/emmet/dist/extension
+[2019-07-22 02:21:47.311] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-22 02:21:47.311] [exthost] [info] ExtensionService#loadCommonJSModule /src/packages/server/build/extensions/git/dist/main
+[2019-07-22 02:21:47.379] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-22 02:21:47.379] [exthost] [info] ExtensionService#loadCommonJSModule /src/packages/server/build/extensions/merge-conflict/dist/extension
+[2019-07-22 02:21:47.418] [exthost] [info] eager extensions activated
+[2019-07-22 02:21:56.682] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"activationEvent":"onLanguage:php"}
+[2019-07-22 02:21:56.682] [exthost] [info] ExtensionService#loadCommonJSModule /src/packages/server/build/extensions/php-language-features/dist/phpMain
+[2019-07-22 02:33:56.201] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2019-07-22 02:33:56.201] [exthost] [info] ExtensionService#loadCommonJSModule /src/packages/server/build/extensions/css-language-features/client/dist/cssMain
+[2019-07-22 02:35:51.487] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-07-22 02:35:51.488] [exthost] [info] ExtensionService#loadCommonJSModule /src/packages/server/build/extensions/html-language-features/client/dist/htmlMain

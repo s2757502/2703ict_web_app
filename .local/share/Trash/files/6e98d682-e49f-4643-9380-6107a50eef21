@@ -1,0 +1,15 @@
+<?php
+namespace wad;
+//use wad\Post;
+include 'post.php';
+
+//seeder class with mock data for testing purposes
+class CommentSeeder{
+    //function to add comments to posts
+    public static function seed(){
+        $posts[0]->addComment("Bob", "Nice post");
+        $posts[0]->addComment("Fred", "Yes");
+        $posts[1]->addComment("Fred", "NO");
+    }
+}
+?>

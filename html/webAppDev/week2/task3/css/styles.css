@@ -1,0 +1,33 @@
+.post{
+    border-color: black;
+    border-style: solid;
+    margin-bottom: 10px;
+}
+
+.postContents{
+    display: inline-block;
+}
+
+.postImage{
+    float: left;
+    clear: left;
+}
+
+.postText{
+    display: inline-block;
+}
+
+.postUser{
+    font-weight: bold;
+}
+
+.postDate{
+    font-size: smaller;
+}
+
+.postComment{
+    border-color: black;
+    border-style: solid;
+    margin-bottom: 5px;
+    padding: 3px;
+}

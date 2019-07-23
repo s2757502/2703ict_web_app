@@ -1,0 +1,17 @@
+.post{
+    border-color: black;
+    border-style: solid;
+    margin-bottom: 10px;
+}
+
+.postText{
+    display: inline-block;
+}
+
+.postUser{
+    font-weight: bold;
+}
+
+.postDate{
+    font-size: smaller;
+}
