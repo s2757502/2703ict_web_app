@@ -82,7 +82,7 @@
                             if(!empty($comments)) : ?><br>Comments:<?php endif; ?>
                             <?php foreach($comments as $comment){ ?>
                             <div class="postComment">
-                            <?= $comment["comment"]->getUser()  ?>: <?= $comment["comment"]->getComment() ?>
+                            <?= $comment->getUser()  ?>: <?= $comment->getComment() ?>
                             </div>
                             <?php } ?>
                         </div>

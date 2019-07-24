@@ -25,7 +25,8 @@ class Post{
     //mutators
     //add comment variable
     function addComment($user, $comment){
-        $this->comments[] = array("comment"=> new Comment($user, $comment));
+        //$this->comments[] = array("comment"=> new Comment($user, $comment));
+        $this->comments[] = new Comment($user, $comment);
     }
 
     //accessors

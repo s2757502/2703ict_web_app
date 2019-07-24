@@ -69,3 +69,17 @@ clear
 start-code-server
 start-code-server -k
 start-code-server
+start-code-server
+start-code-server -k
+start-code-server
+git add .
+git commit -m "Week 2 Completed"
+git push -u origin master
+git remote add origin https://github.com/s2757502/2703ict_web_app.git
+git push -u origin master
+git push -u origin master
+git pull origin master
+git clone https://github.com/s2757502/2703ict_web_app.git
+git push origin master
+git remote add origin https://github.com/s2757502/2703ict_web_app.git
+git push origin master
