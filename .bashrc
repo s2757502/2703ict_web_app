@@ -23,14 +23,6 @@ alias l='less'
 # color ls -- not very nice in this environment
 #alias ls='ls -Fq -T 0 --color=tty'
 
-# Report the status of code-server (and what its random password is)
-# But NOT if we are running from code-server itself
-if type start-code-server >/dev/null 2>&1; then
-  if [[ -z "$TERM_PROGRAM" ]]; then
-    start-code-server -r
-  fi
-fi
-
 # where is the "laravel" command, if present
 if [[ -x ~/.composer/vendor/bin/laravel ]]; then
    alias laravel=~/.composer/vendor/bin/laravel

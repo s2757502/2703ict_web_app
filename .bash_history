@@ -83,3 +83,19 @@ git clone https://github.com/s2757502/2703ict_web_app.git
 git push origin master
 git remote add origin https://github.com/s2757502/2703ict_web_app.git
 git push origin master
+git clone https://github.com/Griffith-ICT/WebDev-Examples.git
+git add .
+git commit
+git commit -m "Week 2 Marked"
+git push origin master
+clear
+zip -r task3.zip /html/webAppDev/week2/task3
+zip -r task3.zip /var/www/html/webAppDev/week2/task3
+git add .
+git commit -m "Week 2 Marked 2.0"
+git push origin master
+zip -r task3.zip /var/www/html/webAppDev/week2
+zip -r week2.zip /var/www/html/webAppDev/week2
+git add .
+git commit -m "Week 2 Marked 3.0"
+git push origin master
