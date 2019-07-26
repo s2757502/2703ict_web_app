@@ -99,3 +99,7 @@ zip -r week2.zip /var/www/html/webAppDev/week2
 git add .
 git commit -m "Week 2 Marked 3.0"
 git push origin master
+git add .
+get commit -m "Week 4 Start"
+git commit -m "Week 4 Start"
+git push origin master

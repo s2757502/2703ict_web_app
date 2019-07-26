@@ -6,8 +6,8 @@ include "pms.php";
 
 /* Search sample data for $name or $year or $state from form. */
 function search($name, $year, $state) {
-    global $pms; 
-
+		global $pms; 
+		
     // Filter $pms by $name
     if (!empty($name)) {
 		$results = array();
