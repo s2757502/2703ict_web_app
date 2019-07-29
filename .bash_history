@@ -106,3 +106,41 @@ git push origin master
 git add .
 git commit -m "Lab 3 Finished"
 git push origin master
+start-code-server
+start-code-server -k
+git add .
+git commit -m "Week 3 Finished"
+git push origin master
+composer global require laravel/installer
+cd /html/webAppDev/
+cd html/webAppDev/
+composer create-project --prefer-dist laravel/laravel=5.8.* week4
+cd week4/resources/views
+new greeting.blade.php
+touch greeting.blade.php
+cd ..
+cd ..
+cd ..
+composer create-project --prefer-dist laravel/laravel=5.8.* task1
+git add .
+git commit -m "Week 4 - Task 2 Completed"
+git push origin master
+git push -f origin master
+git add .
+git commit -m "Week 4 - Task 2 Completed 2.0"
+git -rm -r
+git rm -r
+git rm -r --cached
+git rm -r --cached .
+git add .
+git commit -m "Week 4 - Task 2 Completed 2.0"
+cd /
+cd ~
+cd html
+git add .
+git commit -m "Week 4 -- Task 2 Completed 3.0"
+git push origin master
+cd webAppDev
+git add .
+git commit -m "Week 4 - Task 2 Completed 4.0"
+git push origin master
