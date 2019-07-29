@@ -4,13 +4,14 @@
  * Precondition: 2 <= n <= MAHP_MAX_INT = 2^31-1.
  * Note that it is executed for its _value_ not for its _effect_.
  */
-define("FILE","messages.txt");
+define("FILE","factorials.txt");
 
 /* Appends entry to FILE. */
 function writeEntry($factorials) {
   $fp = fopen(FILE, "a");
   fwrite($fp, "$factorials\n");
   fclose($fp);
+  header("factorials.php");
 }
 
 /*

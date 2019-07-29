@@ -103,3 +103,6 @@ git add .
 get commit -m "Week 4 Start"
 git commit -m "Week 4 Start"
 git push origin master
+git add .
+git commit -m "Lab 3 Finished"
+git push origin master
