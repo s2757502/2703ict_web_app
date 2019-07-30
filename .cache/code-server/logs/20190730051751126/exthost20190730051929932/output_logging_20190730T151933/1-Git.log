@@ -4631,3 +4631,6 @@ fatal: no upstream configured for branch 'master'
 > git ls-files --stage -- html/webAppDev/week4/task7/resources/views/layouts/
 > git show :html/webAppDev/week4/task7/public/css/styles.css
 > git ls-files --stage -- html/webAppDev/week4/task7/public/css/
+> git check-ignore -z --stdin
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file - --all
