@@ -144,3 +144,43 @@ cd webAppDev
 git add .
 git commit -m "Week 4 - Task 2 Completed 4.0"
 git push origin master
+cd html/webAppDev/week4
+composer create-project --prefer-dist laravel/laravel=5.8.* task3
+touch task3/resources/views/foreach.php
+mv /var/www/html/webAppDev/week4/task3/resources/views/foreach.php /var/www/html/webAppDev/week4/task3/resources/views/foreach.blade.php
+composer create-project --prefer-dist laravel/laravel=5.8.* task4
+git add .
+git commit -m "Week 4 - Task 3 Completed"
+git push origin master
+mv /var/www/html/webAppDev/week4/task4/resources/views/index.html /var/www/html/webAppDev/week4/task4/resources/views/greetingForm.blade.php
+mv /var/www/html/webAppDev/week4/task4/resources/views/greeting.php /var/www/html/webAppDev/week4/task4/resources/views/greeting.blade.php
+nd  resources/views/layouts
+mkdir  resources/views/layouts
+mkdir layouts
+touch resources/views/layouts/master.blade.php
+touch master.blade.php
+git add .
+git commit -m "Week 4 - Task 4 Completed"
+git push master origin
+git push origin master
+cd ..
+git add .
+git commit -m "Week 4 - Task 4 Completed 2.0"
+git push origin master
+cd week4
+composer create-project --prefer-dist laravel/laravel=5.8.* task6
+cd ..
+cd ..
+git add .
+git commit -m "Week 4 - Task 4 Completed & Task 6 Created"
+git push origin master
+cd /var/www/html/webAppDev/week4/task6
+composer update
+cd ..
+cd ..
+cd ..
+git add .
+git commit -m "Week 4 - Task 6 Completed"
+git push origin master
+cd /var/www/html/webAppDev/week4
+composer create-project --prefer-dist laravel/laravel=5.8.* task7

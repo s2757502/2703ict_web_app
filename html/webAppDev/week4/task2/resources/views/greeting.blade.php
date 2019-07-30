@@ -3,7 +3,7 @@
   <head>
     <title>Greeting</title>
     <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="../../wp.css">
+    <link rel="stylesheet" type="text/css" href="{{asset('css/wp.css')}}">
   </head>
   
   <body>  

@@ -1,0 +1,34 @@
+#navbar{
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+    margin: 5px;
+}
+
+#content{
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+    margin: 5px;
+}
+
+.post{
+    display: inline-block;
+    border-color: black;
+    border-style: solid;
+    margin-bottom: 10px;
+}
+
+.dateTime{
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+img{
+    float: left;
+    margin: 5px;
+}
+
+.postMessage{
+    display: block;
+}
