@@ -24,18 +24,33 @@ Route::get('/', function()
 // To do: Perform search and display results
 Route::post('results', function()
 {
+  //error message for query (null if  valid)
+  $error = NULL;
   // Fetch form data
   $name = request("name");
   $year = request("year");
   $state = request("state");
   $query = htmlspecialchars($name.' '.$year.' '.$state);
 
-  // call search() to perform search
-  $pms = search($name, $year, $state);
-  // call view to display search result
-  return view('results')->with('pms', $pms)->with('query', $query);
-});
+  // Check if all fields are empty
+  if (empty($name) && empty($year) && empty($state)) {
+    $error =  "At least one field must contain a value.";
+  }
+  // If years is input and check if it is an integer
+  else if (!empty($year) && !is_numeric($year)){
+    $error = "Year must be a number";
+  }
 
+  if ($error != NULL){
+    return view('greetingForm')->with('error', $error);
+  }
+  else {
+    // call search() to perform search
+    $pms = search($name, $year, $state);
+    // call view to display search result
+    return view('results')->with('pms', $pms)->with('query', $query);
+  }
+});
 
 /* Functions for PM database example. */
 

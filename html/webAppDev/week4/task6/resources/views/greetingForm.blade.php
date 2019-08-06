@@ -5,7 +5,9 @@
 @section('content')
   <h2>Australian Prime Ministers</h2>
   <h3>Query</h3>
-
+  @isset($error)
+  <p class="alert">{{$error}}</p>
+  @endisset
   <form method="post" action="results">
   {{csrf_field()}}
     <table>

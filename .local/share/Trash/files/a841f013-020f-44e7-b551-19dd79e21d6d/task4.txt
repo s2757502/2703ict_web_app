@@ -1,0 +1,27 @@
+a) What are the names of customers who live in Nathan?
+
+SELECT Name
+FROM Customers
+WHERE lower(Address) LIKE '%nathan%';
+
+b) What are the names of customers who have bought Fred's Fries?
+
+CREATE TABLE IF NOT EXISTS Stock (
+	Id INTEGER PRIMARY KEY,
+	Name VARCHAR(20) DEFAULT '' NOT NULL UNIQUE,
+	Quantity INT DEFAULT '0' NOT NULL,
+	Price DECIMAL(8,2) NOT NULL,
+	Description TEXT);
+
+CREATE TABLE IF NOT EXISTS Customers (
+	Id INTEGER PRIMARY KEY,
+	Name VARCHAR(20) default '' NOT NULL,
+	Address VARCHAR(80),
+	Email VARCHAR(30));
+	
+CREATE TABLE IF NOT EXISTS Orders (
+	Id INTEGER PRIMARY KEY,
+	ItemId INTEGER NOT NULL REFERENCES Stock(Id),
+	CustId INTEGER NOT NULL REFERENCES Customers(Id),
+	OrderDate DATE,
+	Quantity INT DEFAULT '0');

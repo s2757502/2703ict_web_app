@@ -1,0 +1,28 @@
+Task 2 – Write SQL queries for the following based on the blog example from Task 1:
+---
+||Online Blog Example||
+Blog(id, title, creator) 
+Article(id, headline, text, author, blog_id)
+---
+a) What are the titles of all blogs with "Japan" in the title?
+
+SELECT title 
+FROM Blog
+WHERE title LIKE '%Japan%';
+
+b) What are the titles of all blogs that contain an article with "Japan" in the headline?
+
+SELECT title
+FROM Blog, Article
+WHERE blog.id = article.blog_id AND headline LIKE '%JAPAN%';
+
+c) What are the titles of all blogs that contain an article written by the blog creator?
+
+SELECT title
+FROM Blog, Article
+WHERE blog.id = article.blog_id AND creator = author
+GROUP BY blog.id;
+
+**Grouped in the event the author has written more than one article in their blog
+
+

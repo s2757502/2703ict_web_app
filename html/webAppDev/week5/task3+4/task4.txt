@@ -1,0 +1,18 @@
+a) What are the names of customers who live in Nathan?
+
+SELECT name 
+FROM   customers 
+WHERE  lower(address) LIKE '%nathan%'; 
+
+b) What are the names of customers who have bought Fred's Fries?
+
+SELECT customers.name 
+FROM   customers, 
+       orders, 
+       stock 
+WHERE  orders.custid = customers.id 
+       AND orders.itemid = stock.id 
+       AND stock.name = 'Fred''s Fries' 
+GROUP  BY customers.id; 
+
+**Grouped by customer.id in the event that a customer orders the same item twice

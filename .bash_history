@@ -184,3 +184,50 @@ git commit -m "Week 4 - Task 6 Completed"
 git push origin master
 cd /var/www/html/webAppDev/week4
 composer create-project --prefer-dist laravel/laravel=5.8.* task7
+rm /var/www/html/webAppDev/week4/task7
+rmdir /var/www/html/webAppDev/week4/task7
+composer create-project --prefer-dist laravel/laravel=5.8.* task7
+git add .
+git commit -m "Week 4 - Task 7 (Optional) Completed"
+git push master origin
+git push origin master
+git push -f origin master
+fs.inotify.max_user_watches=524288
+clear
+zip -r s2757502-Ben Hendry (Week 3) /var/www/html/webAppDev/week3
+zip -r s2757502-Week3.zip /var/www/html/webAppDev/week3
+git add /var/www/s2757502-Week3.zip
+git commit -m "Week 3 zip"
+git push origin master
+git push origin master
+git push origin master
+rm -rf ~/.local/share/Trash/*
+rm -r /var/www/.l/share/Trash/files/0d3392f3-f433-4a91-a281-d6229064d484
+rm -rf /var/www/.local/share/Trash/files/0f25c308-1043-4241-91d4-e9e9d8d2fe68
+rm -rf /var/www/.local/share/Trash/files/30ab2923-5e81-4c1e-9266-ef6f28c7e99d
+clear
+sqlite3 stockdb.sqlite
+sqlite3 stockdb.sqlite
+clear
+sqlite3 stockdb.sqlite
+clear
+sqlite3 stockdb.sqlite
+cd /var/www/html/webAppDev/week5/task3
+sqlite3 stockdb.sqlite
+sqlite3 stockdb.sqlite
+sqlite3 stockdb.sqlite
+sqlite3 stockdb.sqlite
+clear
+sqlite3 stockdb.sqlite
+sqlite3 stockdb.sqlite
+sqlite3 stockdb.sqlite
+cd /var/www/html/webAppDev/week5/task3+4
+sqlite3 stockdb.sqlite
+cd ..1111
+cd task5
+sqlite3 pms.sqlite
+sqlite3 pms.sqlite
+cd /var/www/html/webAppDev/week5/task3+4
+sqlite3 stockdb.sqlite
+sqlite3 stockdb.sqlite
+sqlite3 stockdb.sqlite

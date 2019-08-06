@@ -1,0 +1,30 @@
+a) Online Blog Example
+
+Blog(id, title, creator) 
+Article(id, headline, text, author, blog_id)
+
+Blog->Article = ONE TO MANY
+---
+
+b) Online Newspaper Example
+
+Issue(id, date)
+Article(id, headline, text, author, issue_id)
+Photo(id, caption, photographer)
+Article_Photo(article_id, photo_id)
+
+Issue->Article = ONE TO MANY
+Article<->Photo = MANY TO MANY
+---
+
+c) Online journal example. 
+
+Journal(id, name, date)
+Article(id, title, date, body, journal_id)
+Author(id, name, affiliation)
+Reference(article_id, article_id)
+Author_Article(author_id, article_id)
+
+Journal->Article = ONE TO MANY
+Article<->Author = MANY TO MANY
+Article<->Article = MANY TO MANY
