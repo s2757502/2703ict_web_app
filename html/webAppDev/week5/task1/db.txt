@@ -1,0 +1,77 @@
+a) Online Blog Example
+
+Blog
+-
+BlogID PK int
+Title string
+Creator string
+
+Article
+-
+ArticleID PK int
+Headline string
+Text string
+Author string
+BlogID int FK >- Blog.BlogID
+
+---
+
+b) Online Newspaper Example
+
+Issue
+-
+IssueID PK int
+Date date
+
+Article
+-
+ArticleID PK int
+Headline string
+Text string
+Author string
+IssueID int FK >- Issue.IssueID
+
+Photo
+-
+PhotoID PK int 
+Caption string
+Photographer string
+
+Article_Photo
+-
+ArticleID int FK >- Article.ArticleID
+PhotoID int FK >- Photo.PhotoID
+
+---
+
+c) Online journal example. 
+
+Journal
+-
+JournalID PK int
+Name string
+Date date
+
+Article
+-
+ArticleID PK int
+Title string
+Date date
+Body string
+JournalID int FK >- Journal.JournalID
+
+Author
+-
+AuthorID PK int
+Name string
+Affiliation string
+
+Reference
+-
+ArticleID int FK >- Article.ArticleID
+ReferenceID int FK >- Article.ArticleID
+
+Author_Article
+-
+AuthorID int FK >- Author.AuthorID
+ArticleID int FK >- Article.ArticleID

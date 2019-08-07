@@ -231,3 +231,24 @@ cd /var/www/html/webAppDev/week5/task3+4
 sqlite3 stockdb.sqlite
 sqlite3 stockdb.sqlite
 sqlite3 stockdb.sqlite
+sudo apt install trash-cli
+cd .local/share/Trash/
+cd files
+rm  -rf *
+cd ..
+cd info
+rm  -rf *
+cd ~
+rm .cache
+rm /.cache
+rmdir .cache
+rmdir -r .cache
+rmdir --help
+rmdir --ignore-fail-on-empty  .cache
+rmdir -rf .cache
+rm -rf .cache
+lsof +D /path
+sudo kill .cache/code-server/logs/20190806060831890/.nfs00000000deabbd8900000074
+kill .cache/code-server/logs/20190806060831890/.nfs00000000deabbd8900000074
+rm -rf .cache
+cp -r /var/www/html/webAppDev/week4/task1/. /var/www/html/webAppDev/week6/items

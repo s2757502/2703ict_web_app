@@ -1,0 +1,130 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /var/www
+> git status -z -u
+> git show :html/webAppDev/week5/task3+4/task4.txt
+> git check-ignore -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :html/webAppDev/week4/week4peerreview.txt
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :html/webAppDev/week4/task6/routes/web.php
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :html/webAppDev/week4/task6/resources/views/greetingForm.blade.php
+> git check-ignore -z --stdin
+> git show :html/webAppDev/week4/task6/resources/views/results.blade.php
+> git show :html/webAppDev/week4/task6/resources/views/greetingForm.blade.php
+> git show :html/webAppDev/week4/task6/routes/web.php
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :html/webAppDev/week4/task6/resources/views/layouts/master.blade.php
+> git show :html/webAppDev/week4/task6/resources/views/results.blade.php
+> git check-ignore -z --stdin
+> git show :html/webAppDev/week5/task1/Entities.txt
+> git show :html/webAppDev/week5/task2/blog_example.txt
+> git show :html/webAppDev/week5/task3+4/task4.txt
+> git check-ignore -z --stdin
+> git show :html/webAppDev/week5/task2/blog_example.txt
+> git show :html/webAppDev/week5/task1/Entities.txt
+> git show :html/webAppDev/week4/task6/resources/views/results.blade.php
+> git show :html/webAppDev/week4/task6/resources/views/layouts/master.blade.php
+> git show :html/webAppDev/week5/task1/Entities.txt
+> git show :html/webAppDev/week5/task2/blog_example.txt
+> git show :html/webAppDev/week5/task3+4/task4.txt
+> git show :html/webAppDev/week5/task2/blog_example.txt
+> git show :html/webAppDev/week5/task3+4/task4.txt
+> git show :html/webAppDev/week4/task6/resources/views/greetingForm.blade.php
+> git show :html/webAppDev/week4/task6/resources/views/results.blade.php
+> git show :html/webAppDev/week4/task6/resources/views/layouts/master.blade.php
+> git show :html/webAppDev/week4/task6/resources/views/results.blade.php
+> git show :html/webAppDev/week4/task6/resources/views/greetingForm.blade.php
+> git show :html/webAppDev/week4/task6/routes/web.php
+> git show :html/webAppDev/week4/task6/resources/views/results.blade.php
+> git show :html/webAppDev/week4/task6/routes/web.php
+> git show :html/webAppDev/week4/task6/resources/views/results.blade.php
+> git show :html/webAppDev/week4/task6/resources/views/layouts/master.blade.php
+> git show :html/webAppDev/week4/task6/resources/views/results.blade.php
+> git show :html/webAppDev/week4/task6/resources/views/layouts/master.blade.php
+> git show :html/webAppDev/week4/task6/routes/web.php
+> git show :html/webAppDev/week5/task1/Entities.txt
+> git show :html/webAppDev/week5/task2/blog_example.txt
+> git show :html/webAppDev/week5/task3+4/task4.txt
+> git show :html/webAppDev/week4/task6/resources/views/results.blade.php
+> git show :html/webAppDev/week5/task3+4/task4.txt
+> git show :html/webAppDev/week4/task6/resources/views/layouts/master.blade.php
+> git show :html/webAppDev/week5/task1/Entities.txt
+> git show :html/webAppDev/week5/task2/blog_example.txt
+> git check-ignore -z --stdin
+> git show :html/webAppDev/week4/task6/resources/views/results.blade.php
+> git show :html/webAppDev/week4/task6/resources/views/layouts/master.blade.php
+> git show :html/webAppDev/week4/task6/resources/views/results.blade.php
+> git show :html/webAppDev/week4/task6/resources/views/greetingForm.blade.php
+> git show :html/webAppDev/week4/task6/routes/web.php
+> git check-ignore -z --stdin
+> git show :html/webAppDev/week5/task1/Entities.txt
+> git show :html/webAppDev/week5/task2/blog_example.txt
+> git show :html/webAppDev/week5/task3+4/task4.txt
+> git show :html/webAppDev/week5/task1/Entities.txt
+> git show :html/webAppDev/week5/task2/blog_example.txt
+> git show :html/webAppDev/week5/task1/Entities.txt
+> git show :html/webAppDev/week5/task2/blog_example.txt
+> git show :html/webAppDev/week5/task1/Entities.txt
+> git show :html/webAppDev/week5/task2/blog_example.txt
+> git show :html/webAppDev/week5/task2/blog_example.txt
+> git show :html/webAppDev/week5/task3+4/task4.txt
+> git check-ignore -z --stdin
+> git show :html/webAppDev/week5/task1/Entities.txt
+> git show :html/webAppDev/week5/task1/Entities.1.txt
+> git ls-files --stage -- html/webAppDev/week5/task1/
+> git check-ignore -z --stdin
+> git show :html/webAppDev/week5/task1/db.txt
+> git ls-files --stage -- html/webAppDev/week5/task1/
+> git check-ignore -z --stdin
+> git show :html/webAppDev/week5/task2/blog_example.txt
+> git show :html/webAppDev/week5/task3+4/task4.txt
+> git show :html/webAppDev/week5/task2/blog_example.txt
+> git show :html/webAppDev/week5/task3+4/task4.txt
+> git show :html/webAppDev/week5/task2/blog_example.txt
+> git show :html/webAppDev/week5/task3+4/task4.txt
+> git show :html/webAppDev/week5/task2/blog_example.txt
+> git show :html/webAppDev/week5/task3+4/task4.txt
+> git show :html/webAppDev/week5/task2/blog_example.txt
+> git show :html/webAppDev/week5/task3+4/task4.txt
+> git show :html/webAppDev/week5/task2/blog_example.txt
+> git show :html/webAppDev/week5/task3+4/task4.txt
+> git show :html/webAppDev/week5/task1/db.txt
+> git ls-files --stage -- html/webAppDev/week5/task1/
+> git show :html/webAppDev/week5/task2/blog_example.txt
+> git show :html/webAppDev/week5/task3+4/task4.txt

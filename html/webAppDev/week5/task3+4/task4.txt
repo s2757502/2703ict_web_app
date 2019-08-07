@@ -2,7 +2,7 @@ a) What are the names of customers who live in Nathan?
 
 SELECT name 
 FROM   customers 
-WHERE  lower(address) LIKE '%nathan%'; 
+WHERE  address LIKE '%nathan%'; 
 
 b) What are the names of customers who have bought Fred's Fries?
 
