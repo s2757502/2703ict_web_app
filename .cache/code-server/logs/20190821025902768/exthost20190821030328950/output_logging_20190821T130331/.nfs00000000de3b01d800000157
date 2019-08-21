@@ -131,3 +131,49 @@ fatal: no upstream configured for branch 'master'
 > git check-ignore -z --stdin
 > git add -A -- .
 > git commit --quiet --allow-empty-message --file - --all
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /var/www/.cache/code-server/logs/20190821025902768/exthost20190821030328950/output_logging_20190821T130331/.nfs00000000de3b01d800000157
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git branch
+> git reset -q HEAD -- /var/www/.cache/code-server/logs/20190821025902768/exthost20190821030328950/output_logging_20190821T130331/.nfs00000000de3b01d800000157
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git checkout -q -- /var/www/.cache/code-server/logs/20190821025902768/exthost20190821030328950/output_logging_20190821T130331/.nfs00000000de3b01d800000157 /var/www/html/WebDev-Examples
+error: unable to unlink old '.cache/code-server/logs/20190821025902768/exthost20190821030328950/output_logging_20190821T130331/.nfs00000000de3b01d800000157': Device or resource busy
+> git checkout -q -- /var/www/.cache/code-server/logs/20190821025902768/exthost20190821030328950/output_logging_20190821T130331/.nfs00000000de3b01d800000157 /var/www/html/WebDev-Examples
+error: unable to unlink old '.cache/code-server/logs/20190821025902768/exthost20190821030328950/output_logging_20190821T130331/.nfs00000000de3b01d800000157': Device or resource busy
+> git checkout -q -- /var/www/html/WebDev-Examples
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git checkout -q -- /var/www/.cache/code-server/logs/20190821025902768/.nfs00000000deabbd8400000154
+error: unable to unlink old '.cache/code-server/logs/20190821025902768/.nfs00000000deabbd8400000154': Device or resource busy
+> git checkout -q -- /var/www/.cache/code-server/logs/20190821025902768/.nfs00000000deabbd8900000153
+error: unable to unlink old '.cache/code-server/logs/20190821025902768/.nfs00000000deabbd8900000153': Device or resource busy
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file - --all
