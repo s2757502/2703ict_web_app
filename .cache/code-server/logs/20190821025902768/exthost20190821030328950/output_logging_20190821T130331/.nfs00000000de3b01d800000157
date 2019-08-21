@@ -128,3 +128,6 @@ fatal: no upstream configured for branch 'master'
 > git check-ignore -z --stdin
 > git check-ignore -z --stdin
 > git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file - --all
