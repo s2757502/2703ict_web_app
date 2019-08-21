@@ -25,7 +25,7 @@ FROM    Blog,
         Article
 WHERE   Blog.BlogID = Article.BlogID 
         AND Blog.Creator = Article.Author
-GROUP   BY blog.id;
+GROUP   BY Blog.id;
 
 **Grouped in the event the author has written more than one article in their blog
 

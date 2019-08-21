@@ -252,3 +252,33 @@ sudo kill .cache/code-server/logs/20190806060831890/.nfs00000000deabbd8900000074
 kill .cache/code-server/logs/20190806060831890/.nfs00000000deabbd8900000074
 rm -rf .cache
 cp -r /var/www/html/webAppDev/week4/task1/. /var/www/html/webAppDev/week6/items
+zip /var/www/html/webAppDev/week4 s2757502(week 4).zip
+zip /var/www/html/webAppDev/week4 s2757502-week 4.zip
+zip /var/www/html/webAppDev/week4 s2757502-week4.zip
+zip -r s2757502-week4.zip /var/www/html/webAppDev/week4
+zip s2757502-week4.zip /var/www/html/webAppDev/week4
+git add /var/www/s2757502-week4.zip
+git commit -m "Week 4 Submission"
+git push origin master
+zip -r s2757502-week4.zip /var/www/html/webAppDev/week4
+zip -r s2757502-week4-task6.zip /var/www/html/webAppDev/week4/task6
+git add /var/www/s2757502-week4-task6.zip
+git commit -m "Week 4 - Task 6 Submission"
+git push origin master
+git add .
+git add .
+git commit -m "Week 5 - DB Schemas Completed."
+git push origin master
+zip -r week 5 - s2757502 /var/www/html/webAppDev/week5
+zip -r s2757502-week5.zip /var/www/html/webAppDev/week5
+git add /var/www/s2757502-week5.zip
+git commit -m "Week 5 - Completed (zip)"
+git push origin master
+git push origin master
+cd html
+sqlite3 database.sqlite
+touch add_item.blade.php
+cd /var/www/html/webAppDev/week6/items/resources/views/items
+touch update_item.blade.php
+touch item_update.blade.php
+touch delete_item.blade.php
