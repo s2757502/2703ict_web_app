@@ -282,3 +282,20 @@ cd /var/www/html/webAppDev/week6/items/resources/views/items
 touch update_item.blade.php
 touch item_update.blade.php
 touch delete_item.blade.php
+cd /var/www/html/assignment
+laravel new assignment
+clear
+composer create-project --prefer-dist laravel/laravel=5.8.* assignment
+rm /var/www/html/assignment/assignment
+rm -r /var/www/html/assignment/assignment
+cd /var/www/html/webAppDev
+zip -r s2757502-week5.zip /var/www/html/webAppDev/week5
+cd ~
+git add .
+zip -r s2757502-week6.zip /var/www/html/webAppDev/week6
+git add .
+git commit -m "Week 5 and 6 zipped Submission"
+git push origin master
+clear
+cd /var/www/html
+cp -a /var/www/html/webAppDev/week4/task7/. /var/www/html/assignment
