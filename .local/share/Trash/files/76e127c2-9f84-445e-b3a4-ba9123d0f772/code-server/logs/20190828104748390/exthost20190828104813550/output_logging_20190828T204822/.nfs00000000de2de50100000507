@@ -1,0 +1,212 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /var/www
+> git status -z -u
+> git check-ignore -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :html/assignment/resources/views/bootstrap.blade.php
+> git show :html/assignment/resources/views/welcome.blade.php
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :html/webAppDev/week6/items/routes/web.php
+> git show :html/assignment/resources/views/welcome.blade.php
+> git show :html/assignment/resources/views/bootstrap.blade.php
+> git show :html/assignment/resources/views/welcome.blade.php
+> git show :html/assignment/resources/views/bootstrap.blade.php
+> git show :html/assignment/resources/views/welcome.blade.php
+> git show :html/assignment/resources/views/bootstrap.blade.php
+> git show :html/webAppDev/week6/items/routes/web.php
+> git show :html/assignment/resources/views/bootstrap.blade.php
+> git check-ignore -z --stdin
+> git show :html/assignment/routes/web.php
+> git show :html/assignment/resources/views/bootstrap.blade.php
+> git check-ignore -z --stdin
+> git show :html/assignment/resources/views/home.blade.php
+> git ls-files --stage -- html/assignment/resources/views/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :html/assignment/resources/views/layouts/master.blade.php
+> git show :html/assignment/resources/views/home.blade.php
+> git ls-files --stage -- html/assignment/resources/views/
+> git show :html/assignment/resources/views/layouts/master.blade.php
+> git show :html/assignment/resources/views/home.blade.php
+> git ls-files --stage -- html/assignment/resources/views/
+> git show :html/assignment/resources/views/layouts/master.blade.php
+> git show :html/assignment/resources/views/home.blade.php
+> git ls-files --stage -- html/assignment/resources/views/
+> git show :html/webAppDev/week6/items/routes/web.php
+> git show :html/assignment/routes/web.php
+> git show :html/assignment/resources/views/layouts/master.blade.php
+> git show :html/assignment/resources/views/home.blade.php
+> git ls-files --stage -- html/assignment/resources/views/
+> git show :html/assignment/routes/web.php
+> git show :html/assignment/resources/views/home.blade.php
+> git ls-files --stage -- html/assignment/resources/views/
+> git show :html/webAppDev/week6/items/routes/web.php
+> git show :html/assignment/routes/web.php
+> git show :html/assignment/resources/views/home.blade.php
+> git ls-files --stage -- html/assignment/resources/views/
+> git show :html/assignment/routes/web.php
+> git show :html/webAppDev/week6/items/routes/web.php
+> git show :html/assignment/resources/views/home.blade.php
+> git ls-files --stage -- html/assignment/resources/views/
+> git show :html/assignment/routes/web.php
+> git show :html/webAppDev/week6/items/routes/web.php
+> git show :html/assignment/routes/web.php
+> git show :html/webAppDev/week6/items/routes/web.php
+> git show :html/assignment/routes/web.php
+> git show :html/webAppDev/week6/items/routes/web.php
+> git show :html/assignment/routes/web.php
+> git show :html/webAppDev/week6/items/routes/web.php
+> git show :html/assignment/routes/web.php
+> git show :html/webAppDev/week6/items/routes/web.php
+> git show :html/assignment/routes/web.php
+> git show :html/webAppDev/week6/items/routes/web.php
+> git show :html/assignment/routes/web.php
+> git check-ignore -z --stdin
+> git show :html/webAppDev/week6/items/routes/web.php
+> git show :html/assignment/routes/web.php
+> git show :html/webAppDev/week6/items/routes/web.php
+> git check-ignore -z --stdin
+> git show :html/assignment/routes/web.php
+> git show :html/assignment/database/socialdatabase.sql
+> git show :html/assignment/routes/web.php
+> git show :html/webAppDev/week6/items/routes/web.php
+> git show :html/assignment/database/socialdatabase.sql
+> git show :html/assignment/database/socialdatabase.sql
+> git check-ignore -z --stdin
+> git show :html/assignment/database/socialdatabase.sql
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :html/assignment/.editorconfig
+> git show :html/assignment/routes/console.php
+> git show :html/assignment/database/socialdatabase.sql
+> git check-ignore -z --stdin
+> git show :html/assignment/config/database.php
+> git check-ignore -z --stdin
+> git show :html/webAppDev/week6/items/config/database.php
+> git check-ignore -z --stdin
+> git show :html/assignment/config/database.php
+> git show :html/webAppDev/week6/items/config/database.php
+> git show :html/assignment/config/database.php
+> git show :html/webAppDev/week6/items/config/database.php
+> git show :html/assignment/config/database.php
+> git show :html/webAppDev/week6/items/config/database.php
+> git show :html/assignment/config/database.php
+> git show :html/webAppDev/week6/items/config/database.php
+> git show :html/assignment/config/database.php
+> git show :html/assignment/database/socialdatabase.sql
+> git show :html/assignment/routes/web.php
+> git show :html/webAppDev/week6/items/database/seeds/DatabaseSeeder.php
+> git show :html/assignment/routes/web.php
+> git show :html/webAppDev/week6/items/config/database.php
+> git show :html/assignment/routes/web.php
+> git show :html/webAppDev/week6/items/config/view.php
+> git check-ignore -z --stdin
+> git show :html/assignment/config/app.1.php
+> git ls-files --stage -- html/assignment/config/
+> git check-ignore -z --stdin
+> git show :html/assignment/config/auth.1.php
+> git ls-files --stage -- html/assignment/config/
+> git check-ignore -z --stdin
+> git show :html/assignment/config/broadcasting.1.php
+> git ls-files --stage -- html/assignment/config/
+> git check-ignore -z --stdin
+> git show :html/assignment/config/cache.1.php
+> git ls-files --stage -- html/assignment/config/
+> git check-ignore -z --stdin
+> git show :html/assignment/config/database.1.php
+> git ls-files --stage -- html/assignment/config/
+> git show :html/assignment/config/filesystems.1.php
+> git ls-files --stage -- html/assignment/config/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :html/assignment/config/hashing.1.php
+> git ls-files --stage -- html/assignment/config/
+> git check-ignore -z --stdin
+> git show :html/assignment/config/logging.1.php
+> git ls-files --stage -- html/assignment/config/
+> git check-ignore -z --stdin
+> git show :html/assignment/config/mail.1.php
+> git ls-files --stage -- html/assignment/config/
+> git check-ignore -z --stdin
+> git show :html/assignment/config/queue.1.php
+> git ls-files --stage -- html/assignment/config/
+> git check-ignore -z --stdin
+> git show :html/assignment/config/services.1.php
+> git ls-files --stage -- html/assignment/config/
+> git check-ignore -z --stdin
+> git show :html/assignment/config/session.1.php
+> git ls-files --stage -- html/assignment/config/
+> git check-ignore -z --stdin
+> git show :html/assignment/config/view.1.php
+> git ls-files --stage -- html/assignment/config/
+> git show :html/assignment/config/view.php
+> git show :html/assignment/routes/web.php
+> git show :html/assignment/config/app.php
+> git show :html/assignment/config/auth.php
+> git show :html/assignment/config/broadcasting.php
+> git show :html/assignment/config/cache.php
+> git show :html/assignment/config/database.php
+> git show :html/assignment/config/filesystems.php
+> git show :html/assignment/config/hashing.php
+> git show :html/assignment/config/logging.php
+> git show :html/assignment/config/mail.php
+> git show :html/assignment/config/queue.php
+> git show :html/assignment/config/services.php
+> git show :html/assignment/config/session.php
+> git show :html/assignment/config/view.php
+> git show :html/assignment/config/queue.php
+> git show :html/assignment/config/view.php
+> git show :html/assignment/routes/web.php
+> git show :html/webAppDev/week6/items/routes/web.php
+> git show :html/webAppDev/week6/items/database/factories/UserFactory.php
+> git show :html/webAppDev/week6/items/routes/web.php
+> git check-ignore -z --stdin
+> git show :html/assignment/routes/web.php
+> git show :html/webAppDev/week6/items/routes/web.php
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :html/webAppDev/week6/items/routes/channels.php
+> git show :html/webAppDev/week6/items/routes/web.php
+> git show :html/webAppDev/week6/items/database/create_item_table.sql
+> git show :html/assignment/config/database.php
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :html/assignment/resources/views/layouts/master.blade.php
+> git show :html/assignment/config/database.php
+> git show :html/assignment/database/socialdatabase.sql
+> git check-ignore -z --stdin

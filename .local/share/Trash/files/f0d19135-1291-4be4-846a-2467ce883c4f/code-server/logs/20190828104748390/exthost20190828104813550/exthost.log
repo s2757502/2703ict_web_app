@@ -1,0 +1,16 @@
+[2019-08-28 20:48:22.856] [exthost] [info] extension host started
+[2019-08-28 20:48:23.342] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-08-28 20:48:23.342] [exthost] [info] ExtensionService#loadCommonJSModule /src/packages/server/build/extensions/extension-editing/dist/extension
+[2019-08-28 20:48:23.364] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-08-28 20:48:23.364] [exthost] [info] ExtensionService#loadCommonJSModule /src/packages/server/build/extensions/typescript-language-features/dist/extension
+[2019-08-28 20:48:23.395] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-28 20:48:23.395] [exthost] [info] ExtensionService#loadCommonJSModule /src/packages/server/build/extensions/debug-auto-launch/dist/extension
+[2019-08-28 20:48:23.398] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-28 20:48:23.398] [exthost] [info] ExtensionService#loadCommonJSModule /src/packages/server/build/extensions/emmet/dist/extension
+[2019-08-28 20:48:23.406] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-28 20:48:23.406] [exthost] [info] ExtensionService#loadCommonJSModule /src/packages/server/build/extensions/git/dist/main
+[2019-08-28 20:48:23.469] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-28 20:48:23.469] [exthost] [info] ExtensionService#loadCommonJSModule /src/packages/server/build/extensions/merge-conflict/dist/extension
+[2019-08-28 20:48:23.518] [exthost] [info] eager extensions activated
+[2019-08-28 20:48:38.501] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"activationEvent":"onLanguage:php"}
+[2019-08-28 20:48:38.501] [exthost] [info] ExtensionService#loadCommonJSModule /src/packages/server/build/extensions/php-language-features/dist/phpMain

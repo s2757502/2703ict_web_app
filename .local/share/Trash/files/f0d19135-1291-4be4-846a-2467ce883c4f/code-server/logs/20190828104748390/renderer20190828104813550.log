@@ -1,0 +1,12 @@
+[2019-08-28 20:48:21.576] [renderer20190828104813550] [error] Inotify limit reached (ENOSPC)
+[2019-08-28 21:06:54.704] [renderer20190828104813550] [error] EBUSY: resource busy or locked, unlink '/var/www/html/assignment/database/.nfs00000000de7dc7ea00000500': Error: EBUSY: resource busy or locked, unlink '/var/www/html/assignment/database/.nfs00000000de7dc7ea00000500'
+    at r (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:217782)
+    at Object.t.protoToArgument (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:218840)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:2737475
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:2771187
+    at Array.forEach (<anonymous>)
+    at e.emit (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:2771160)
+    at e.emitFail (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:2739407)
+    at e.<anonymous> (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:2738705)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:2489
+    at Object.next (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:2594)

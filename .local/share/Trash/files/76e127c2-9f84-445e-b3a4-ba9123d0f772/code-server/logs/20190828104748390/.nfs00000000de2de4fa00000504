@@ -1,0 +1,41 @@
+[2019-08-28 20:48:21.576] [renderer20190828104813550] [error] Inotify limit reached (ENOSPC)
+[2019-08-28 21:06:54.704] [renderer20190828104813550] [error] EBUSY: resource busy or locked, unlink '/var/www/html/assignment/database/.nfs00000000de7dc7ea00000500': Error: EBUSY: resource busy or locked, unlink '/var/www/html/assignment/database/.nfs00000000de7dc7ea00000500'
+    at r (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:217782)
+    at Object.t.protoToArgument (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:218840)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:2737475
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:2771187
+    at Array.forEach (<anonymous>)
+    at e.emit (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:2771160)
+    at e.emitFail (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:2739407)
+    at e.<anonymous> (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:2738705)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:2489
+    at Object.next (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:2594)
+[2019-08-28 21:27:00.780] [renderer20190828104813550] [error] timed out: Error: timed out
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:2737302
+[2019-08-28 21:28:04.706] [renderer20190828104813550] [error] timed out: Error: timed out
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:2737302
+[2019-08-28 21:29:23.010] [renderer20190828104813550] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.reveal (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615044)
+    at t.<anonymous> (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1335859)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:2489
+    at Object.next (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:2594)
+    at a (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:1365)
+[2019-08-28 21:29:34.856] [renderer20190828104813550] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.reveal (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615044)
+    at t.<anonymous> (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1335859)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:2489
+    at Object.next (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:2594)
+    at a (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:1365)
+[2019-08-28 21:29:34.939] [renderer20190828104813550] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.<anonymous> (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1613125)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:2489
+    at Object.next (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:2594)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:1532
+    at new Promise (<anonymous>)
+    at Module.u (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:1309)
+    at n.e.expand (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612752)
+    at t.<anonymous> (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1335688)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:2489

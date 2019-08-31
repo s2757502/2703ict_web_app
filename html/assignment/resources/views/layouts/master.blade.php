@@ -11,6 +11,14 @@
     </head>
 
 <body>
+<div class="container">
+        <div class="row" id="navbar">
+            <div class="col-md-6"><a href="{{url("/")}}">Home</a></div>
+            <div class="col-md-2">Recent Posts</div>
+            <div class="col-md-2">Users</div>
+            <div class="col-md-2">Documentation</div>
+        </div>
     @yield('content')
+    </div>
 </body>
 </html>

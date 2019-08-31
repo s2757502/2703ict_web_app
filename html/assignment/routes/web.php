@@ -12,5 +12,9 @@
 */
 
 Route::get('/', function () {
-    return view('bootstrap');
+    $sql = "select * from Post";
+    $posts = DB::select($sql);
+
+    dd($posts);
+    return view('home')->with('posts', $posts);
 });
