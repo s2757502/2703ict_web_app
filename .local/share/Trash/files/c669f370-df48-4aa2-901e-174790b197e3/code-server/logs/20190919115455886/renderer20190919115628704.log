@@ -1,0 +1,27 @@
+[2019-09-19 21:56:43.031] [renderer20190919115628704] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-09-19 21:56:46.701] [renderer20190919115628704] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1615552)
+    at n.e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:1612368)
+    at e.updateWidth (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1330360)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:67:1341396
+    at e.fire (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:16:14094)
+    at t.render (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:363523)
+    at t.notifyFileDecorationsChanges (https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:360441)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357365
+    at Array.forEach (<anonymous>)
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:38:357336
+[2019-09-19 21:56:55.152] [renderer20190919115628704] [error] Inotify limit reached (ENOSPC)
+[2019-09-19 21:57:23.843] [renderer20190919115628704] [error] timed out: Error: timed out
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:2737302
+[2019-09-19 21:57:26.110] [renderer20190919115628704] [error] timed out: Error: timed out
+    at https://s2757502.elf.ict.griffith.edu.au:8443/ide.main.5b173b.js:60:2737302

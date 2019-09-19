@@ -299,3 +299,50 @@ git push origin master
 clear
 cd /var/www/html
 cp -a /var/www/html/webAppDev/week4/task7/. /var/www/html/assignment
+zip -r s2757502-Assignment-1.zip /var/www/html/project
+git add .
+git commit -m "Assign
+git push origin master
+git push --force origin master
+git push origin master --force
+sudo apt-get update
+php artisan routes
+cd /var/www/html/webAppDev/week8/prod
+php artisan routes
+php artisan routes
+php artisan routes:list
+php artisan route:list
+zip -r s2757502-Week8.zip /var/www/html/webAppDev/week8
+cp -a /var/www/html/webAppDev/week8 /var/www/html/webAppDev/week9
+php artisan route:list
+cd /var/www/html/webAppDev/week8/prod
+php artisan route:list
+cd /var/www/html/webAppDev/week9/prod
+php artisan make:seeder UsersTableSeeder
+php artisan make:auth
+php artisan migrate:refresh --seed
+php artisan route:list
+php artisan make:auth
+php artisan migrate:refresh --seed
+php artisan route:list
+zip -r s2757502-Week8.zip /var/www/html/webAppDev/week8
+zip -r s2757502-Week9.zip /var/www/html/webAppDev/week9
+cp -a /var/www/html/webAppDev/week9 /var/www/html/assignment2
+composer create-project --prefer-dist laravel/laravel=5.8.* assignment2
+cd /var/www/html/assignment2
+php artisan make:migration create_consumers_table
+php artisan make:auth
+php artisan migrate
+php artisan make:model Models/Consumers -m
+php artisan make:model Models/Restaurants -m
+php artisan make:model Models/Administrators -m
+php artisan make:migration create_administrators_table
+php artisan make:migration create_consumers_table
+php artisan make:migration create_restaurants_table
+php artisan migrate
+php artisan migrate
+touch database/database.sqlite
+php artisan migrate
+php artisan make:model Administrator
+php artisan make:model Consumer
+php artisan make:model Restaurant
